@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-armour-import",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The plugin to transform path into the package for armour-antd!",
   "repository": {
     "type": "git",
