@@ -1,6 +1,6 @@
 ## babel-plugin-armour-import
 
-**The plugin to transform path into the package for armour-antd!**
+**The plugin to transform path into the package for [armour-antd](https://github.com/shenqiuhui/armour-antd)!**
 
 ## Install
 
