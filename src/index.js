@@ -16,8 +16,6 @@ function armourImportPlugin() {
         let source = node.source.value;
         let specifiers = node.specifiers;
 
-        console.log('options', options);
-
         // 判断是否是默认导出，其中一个不是默认导出，则都不是默认导出
         if (!types.isImportDefaultSpecifier(specifiers[0]) && options.opts.libararyName === 'armour-antd') {
           // 如果不是默认导出，则需要转换
